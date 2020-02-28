@@ -3,7 +3,7 @@ Aplicación de escritorio de Colegio Interactivo
 
 ## Instalación:
 1. Ve a [ESTE](https://java.com) sitio e instala java
-2. Una vez instalado ve a ESTA página y descarga el archivo ColegioInteractivo.jar
+2. Una vez instalado descarga el archivo [ColegioInteractivo.jar](https://github.com/FranciscoSolisDotTech/ColegioInteractivoJava/releases/download/v1.0-ALPHA/ColegioInteractivoJava.jar)
 
 ## Ejecución: 
 ADVERTENCIA: Es necesario el tener instalado java y tener una conexión a internet.
